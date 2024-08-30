@@ -23,5 +23,10 @@
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
           </div>
     </div>
-
-        
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 두번의 프로젝트 진행 </h2> <br>     
+            <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+                두번의 개인 프로젝트를 진행한 적이있습니다. 
+        <li> 일차적으로, 1인 단독 프로젝트를 진행하여, 웹 페이지 디자인, 기획 구성, ppt제작을 진행한 경험이 있습니다.  .</li>
+            <li>이차적으로, 5인 프로젝트를 진행하여 API기술을 적극활용하였고, 이외에 css와, 프로젝트 병합, ppt 및 영상 제작으로 팀과 소통하며, 기여한 적이 있습니다.</li>
+            </div>
+            
